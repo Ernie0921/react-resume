@@ -2,6 +2,9 @@
 ```
 https://gitconnected.com/<YOUR_USERNAME>/resume
 ```
+# Links
+Live React App (http://ernestoportfolio.com/react-resume/)
+
 Gitconnect link (https://gitconnected.com/ernie0921)
 
 Ex. **[My Resume →](https://gitconnected.com/v1/portfolio/ernie0921)** (https://gitconnected.com/v1/portfolio/ernie0921)
@@ -30,5 +33,10 @@ yarn start
 - Carbon Design
 
 # View
+REACT APP
+
 ![](./public/react-resume.gif)
+
+Resume (Can be retrieved from live application)
+
 ![](./public/resumescreenshot.jpeg)
