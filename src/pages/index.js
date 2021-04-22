@@ -9,9 +9,7 @@ const Pages = ({ user }) => {
   return (
     <Router>
       <Switch>
-        <Route exact path="/react-resume/">
-          <Me user={user} />
-        </Route>
+        
         <Route path="/projects">
           <Projects user={user} />
         </Route>
