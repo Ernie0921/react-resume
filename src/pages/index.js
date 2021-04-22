@@ -12,13 +12,13 @@ const Pages = ({ user }) => {
         <Route exact path="/react-resume">
           <Me user={user} />
         </Route>
-        <Route path="/react-resume/projects">
+        <Route path="/projects">
           <Projects user={user} />
         </Route>
-        <Route path="/react-resume/work">
+        <Route path="/work">
           <Work user={user} />
         </Route>
-        <Route path="/react-resume/education">
+        <Route path="/education">
           <Education user={user} />
         </Route>
       </Switch>
