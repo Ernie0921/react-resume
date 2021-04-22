@@ -2,6 +2,8 @@
 ```
 https://gitconnected.com/<YOUR_USERNAME>/resume
 ```
+Gitconnect link (https://gitconnected.com/ernie0921)
+
 Ex. **[My Resume →](https://gitconnected.com/v1/portfolio/ernie0921)** (https://gitconnected.com/v1/portfolio/ernie0921)
 
 
