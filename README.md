@@ -3,6 +3,7 @@
 https://gitconnected.com/<YOUR_USERNAME>/resume
 ```
 Ex. **[My Resume →](https://gitconnected.com/v1/portfolio/ernie0921)** (https://gitconnected.com/v1/portfolio/ernie0921)
+![](./public/react-resume.gif)
 ![](./public/resumescreenshot.jpeg)
 
 ## Built using the gitconnected.com user portfolio API
